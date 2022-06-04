@@ -1,0 +1,55 @@
+Line 1 // this is a comment to be ignored
+Line 2 int a, b;
+Int
+Id a
+Id b
+;
+
+Line 3 a245= 53 + b + 42.345;
+Id a245
+=
+IntLiteral 53
++
+Id b
++
+FloatLiteral 42.345
+;
+
+Line 4 // a=b+c+b
+Line 5 if (a245<= (182957) Variable25.12 ==what1919$;
+if
+(
+Id a245
+<=
+(
+IntLiteral 182957
+)
+Id Variable25.12
+==
+Id what1919
+$
+;
+
+Line 6 for (i = 0; a < x; i++) {
+for
+(
+Id i
+=
+IntLiteral 0
+;
+Id a
+<
+Id x
+;
+Id i
+++
+)
+{
+
+Line 7 a = a*2;
+Id a
+=
+Id a
+*
+IntLiteral 2
+;
